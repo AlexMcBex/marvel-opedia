@@ -39,12 +39,12 @@ To these and more questions you can have answer with Marvel-Opedia. Thanks to th
  ![ERD graph](img/ERD.jpg) -->
 <!-- _Note: The ERD will be completed as the project progresses._ -->
 
-## Wireframe
+<!-- ## Wireframe
 ### Home
  ![home page]()
 
 
 ### Display a Recipe
- ![show page](img/recipeshow.png)
+ ![show page](img/recipeshow.png) -->
 <!-- ![Wireframe Placeholder](path/to/wireframe.png) -->
 <!-- _Note: The wireframe will be completed as the project progresses._ -->
